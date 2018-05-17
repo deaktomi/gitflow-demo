@@ -1,6 +1,6 @@
-Current version: v1.0
+Current version: v1.1
 
 Feature1 Finished
-TP-1 Finished
+TP-1 Hotfixed
 TP-3
 TP-2 Finished
